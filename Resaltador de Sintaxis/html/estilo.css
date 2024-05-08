@@ -1,0 +1,12 @@
+html { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255)}
+num {color: rgb(81, 255, 1)}
+op {color: rgb(75, 187, 0)}
+cond {color: rgb(255, 0, 251)}
+loop {color: rgb(179, 0, 255)}
+logic {color: rgb(0, 213, 255)}
+bool {color: rgb(68, 90, 253)}
+par {color: rgb(234, 255, 0)}
+datatype {color: rgb(0, 162, 135)}
+punct {color: rgb(151, 253, 255)}
+normal {color: rgb(255,255,255)}
+.string *, .string {color: rgb(255, 149, 0);}
